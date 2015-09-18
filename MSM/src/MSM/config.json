@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "MSM"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-MSM-4e804d3b-78a1-478e-b4d2-3d308677e932;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
