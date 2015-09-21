@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "MSPP"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-MSPP-1b560a40-3f53-42c2-97ff-dc86fa8da408;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
